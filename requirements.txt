@@ -1,0 +1,2 @@
+# Only needed for exercises marked "API Required: Yes".
+anthropic
